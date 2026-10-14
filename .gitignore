@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Keep local datasets and generated training artifacts out of the repository.
+data/
+runs/
+ensemble_temp_seed_all_*/
+*.mp4
